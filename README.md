@@ -1,7 +1,8 @@
 # Jogo do Número Secreto
 
 ## Introdução
-Este projeto implementa um jogo simples de adivinhação em JavaScript, onde o jogador precisa acertar um número secreto gerado aleatoriamente pelo computador. O jogo utiliza diversas funcionalidades do JavaScript para criar uma experiência interativa e desafiadora.
+Este projeto implementa um jogo simples de adivinhação em JavaScript, onde o jogador precisa acertar um número secreto gerado aleatoriamente pelo computador. O jogo utiliza diversas funcionalidades do JavaScript para criar uma experiência interativa e desafiadora.  
+Foi implementado sobre uma base já existente, que incluía a estrutura HTML e o design CSS da aplicação, a lógica JavaScript.
 
 ## Funcionalidades Principais
 - Geração de Número Aleatório: A função gerarNumeroAleatorio() utiliza Math.random() para gerar um número aleatório dentro de um limite definido. Além disso, ela garante que o número gerado não se repita em uma mesma rodada, evitando que o jogo se torne previsível.
